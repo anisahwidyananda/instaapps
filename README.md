@@ -1,4 +1,4 @@
-# instaapps project
+# InstaApps Project
 
 <p> Aplikasi digunakan untuk memenuhi tes penerimaan karyawan PT SEVIMA. </p>
 <p> Aplikasi dibuat menggunakan PHP dan basis data MySQL. </p>
